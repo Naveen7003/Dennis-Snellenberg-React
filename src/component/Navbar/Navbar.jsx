@@ -9,7 +9,6 @@ const Navbar = () => {
       
         <NavbarLeft />
         <NavbarRight />
-
         <Menu />
       
     </div>
